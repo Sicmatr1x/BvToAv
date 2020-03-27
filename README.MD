@@ -73,3 +73,6 @@ javascript: (function () {
 
 例子：https://www.bilibili.com/video/av1928618
 
+## 参考
+
+转换算法参考：[知乎：mcfx的回答](https://www.zhihu.com/question/381784377/answer/1099438784)
